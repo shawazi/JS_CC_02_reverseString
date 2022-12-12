@@ -8,4 +8,4 @@ function reverse(string) {
     return reversed;
 }
 
-reverse(string);
+console.log(reverse(string));
